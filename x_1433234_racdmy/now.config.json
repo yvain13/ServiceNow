@@ -1,0 +1,6 @@
+{
+    "modulePaths": { "src/server/*.ts": "dist/server/*.js" },
+    "scope": "x_1433234_racdmy",
+    "scopeId": "008497e283e612103e34c7e0deaad32a",
+    "name": "x_1433234_racdmy"
+}

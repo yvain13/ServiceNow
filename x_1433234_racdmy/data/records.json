@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "id": "demo_data_1",
+      "task": "Create a new record",
+      "state": "Ready",
+      "deadline": "2024-12-25"
+    },
+    {
+      "id": "demo_data_2",
+      "task": "Update existing record updated",
+      "state": "In Progress",
+      "deadline": "2024-12-26"
+    },
+    {
+      "id": "demo_data_3",
+      "task": "Delete record",
+      "state": "Completed",
+      "deadline": "2024-12-2"
+    },
+    {
+      "id": "demo_data_4",
+      "task": "test",
+      "state": "In Progress",
+      "deadline": "2024-12-28"
+    },
+    {
+      "id": "demo_data_5",
+      "task": "Testing web page",
+      "state": "Ready",
+      "deadline": "2024-12-27"
+    },
+    {
+      "id": "demo_data_6",
+      "task": "Test",
+      "state": "In Progress",
+      "deadline": "2024-12-26"
+    },
+    {
+      "id": "demo_data_7",
+      "task": "Testing",
+      "state": "In Progress",
+      "deadline": "2024-12-27"
+    },
+    {
+      "id": "1",
+      "task": "Demo Began Today",
+      "state": "In Progress",
+      "deadline": "2024-12-28"
+    },
+    {
+      "task": "New Task for Year End",
+      "state": "In Progress",
+      "deadline": "2024-12-24",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "task": "Year End ",
+      "state": "Ready",
+      "deadline": "2025-01-01"
+    },
+    {
+      "task": "Flash Card Application",
+      "state": "In Progress",
+      "deadline": "2024-12-26",
+      "id": "4"
+    },
+    {
+      "task": "Game and Learning",
+      "state": "Ready",
+      "deadline": "2025-01-02",
+      "id": "5"
+    },
+    {
+      "task": "Gifts",
+      "state": "Ready",
+      "deadline": "2024-12-27",
+      "id": "6"
+    },
+    {
+      "task": "Gift Xmas",
+      "state": "Ready",
+      "deadline": "2024-12-26",
+      "id": "7"
+    },
+    {
+      "task": "Xmas",
+      "state": "Ready",
+      "deadline": "2024-12-25",
+      "id": "8"
+    },
+    {
+      "task": " Market",
+      "state": "In Progress",
+      "deadline": "2024-12-26",
+      "id": "9"
+    }
+  ]
+}
